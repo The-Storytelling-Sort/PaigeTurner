@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4f90831cba951248bb4a710948d69ff, type: 3}
+  m_Name: Tutorial_Flatten
+  m_EditorClassIdentifier: 
+  noteName: 'How To: Flatten'
+  menuName: Flatten
+  inInventory: 0
+  noteDisplay: {fileID: 21300000, guid: 47eb45e88de486242bd55704f7b1b16b, type: 3}
+  multiPage: 0
+  frontPageText: 
+  backPageText: 
+  displayTitle: How To - Flatten
+  displayClip: {fileID: 32900000, guid: 5943109b2f5e4e54e936496061799050, type: 3}
+  displayText: Press the "R" or "V" keys or the "RT" or "LT" buttons to flatten yourself
+    and squeeze through tight spaces. Press "Select" or "I" to close.
+  trigger: 0

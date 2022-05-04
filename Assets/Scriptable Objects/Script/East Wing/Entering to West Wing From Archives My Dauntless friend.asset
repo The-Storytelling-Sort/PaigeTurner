@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dc85b15e33242c49b6db91cd3bad8c1, type: 3}
+  m_Name: Entering to West Wing From Archives My Dauntless friend
+  m_EditorClassIdentifier: 
+  type: 0
+  dialogueInfo:
+  - characterName: Turner
+    characterImage: {fileID: 21300000, guid: 8ee08efc3a9e2424da9b8f2fa9db117b, type: 3}
+    audioClip: {fileID: 0}
+    textTimer: 15
+    dialogueText: "My Dauntless friend\u2026 I fear that I can not keep my word.
+      Beyond those doors lies things better left untouched. You would do well to
+      avoid it at all costs."
+  isActive: 0

@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6ac29c466050924aa915b45f98b6e5d, type: 3}
+  m_Name: iNote_Librarians2
+  m_EditorClassIdentifier: 
+  noteName: The Librarians Part 2
+  menuName: Librarians 2
+  inInventory: 0
+  noteDisplay: {fileID: 21300000, guid: 611350f756d95d24eae8c2a1f3377eaa, type: 3}
+  multiPage: 1
+  frontPageText: "A security guard checks her watch. Bill\u2019s late. Again.\r\nCRASH.
+    The front door to the mansion falls to the ground, echoing into the silent night.
+    An alarm blares. \r\nWhat the- \r\n\u201CKortney!\u201D Bill calls out. \u201CSomeone\u2019s
+    broken through the front door! They\u2019ve entered the building!\u201D\r\nCalloway
+    throws the rope over a hanging roof fixture. \u201CThis should be the right window,\u201D
+    says Calloway. \r\n\u201CI hope so,\u201D Sylvia says and begins to climb. Calloway
+    follows.\r\nOnce Syvlia reaches the third floor window, she pulls out a pen-sized
+    device from her pocket. It is a small cylinder-shaped rod divided into two sections.
+    She holds one end to the window, and the device begins to softly whirr as the
+    other end begins to rotate. The glass begins to crack under the pressure, and
+    shatters.\r\n\u201CFind the key for the elevator! I\u2019ll find the button!\u201D
+    Calloway commands, as he starts to inspect the walls.\r\n\u201COn it!\u201D Sylvia
+    says as she searches through a nightstand.\r\n"
+  backPageText: "\u201CGot it!\u201D Sylvia calls out.\r\n\u201CJust in time.\u201D
+    Calloway says as he presses a button. A portion of the wall slides to the side,
+    revealing an elevator with a locked gate. Sylvia unlocks the gate with her key.
+    \r\nThe elevator dings as it reaches the basement, revealing a vault of many
+    treasures.\r\n\u201CWe could take all this, ya know.\u201D Sylvia says as she
+    rummages through the treasures. \u201CNever have to work another day in our lives.\u201D\r\n\u201CAnd
+    miss out on all the adventure that life has to offer? Not a chance. Not like
+    we need money, anyways.\u201D Calloway responds. \r\n\u201CAren\u2019t we doing
+    this for the money?\u201D\r\n\u201CMoney isn\u2019t real. Helping others is.
+    Let\u2019s find the key, and get the heck out of here.\u201D\r\n"

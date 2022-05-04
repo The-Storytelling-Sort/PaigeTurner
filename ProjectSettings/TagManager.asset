@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Glider
+  - CinemachineTarget
+  - Environment
+  - Ground
+  - WindZone
+  - Platform
+  - On
+  - Off
+  - CheckPoint
+  - WrongPage
+  - RightPage
+  - KillZone
+  - Archives
+  - GNOffice
+  - ChallengeCam
+  - Page
+  - Drama
+  - PatrolPoint
+  - Enemy
+  - EnemyProjectile
+  - CamIgnored
+  - EastWing
+  - Undefined
+  - PatrolPoint2
+  - EnemyMelee
+  - PatrolPoint3
+  - PatrolPoint4
+  - Ceiling
+  - Wall
+  - Floor
+  - PatrolPoint5
+  - FloorVent
+  - CeilingVent
+  - WallVent
+  - LeftWallVent
+  - RightWallVent
+  - NorthWing
+  - WestWing
+  - Glide Unlock
+  - Frog Jump Unlock
+  - Lantern Unlock
+  - Fireball
+  - Page2
+  - PatrolPoint6
+  - DestroyedArchives
+  - LoadArchives
+  - LoadNorthWing
+  - LoadEastWing
+  - LoadWestWing
+  - LoadDestroyedArchives
+  - Prop
+  - CandleGuidanceObject
+  - Hang
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - KillZone
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

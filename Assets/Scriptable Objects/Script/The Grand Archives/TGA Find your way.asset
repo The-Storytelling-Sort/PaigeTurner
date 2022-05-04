@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dc85b15e33242c49b6db91cd3bad8c1, type: 3}
+  m_Name: TGA Find your way
+  m_EditorClassIdentifier: 
+  type: 0
+  dialogueInfo:
+  - characterName: Ethereal Voice
+    characterImage: {fileID: 21300000, guid: aea84dd81f247714dafc3647218fb8c9, type: 3}
+    audioClip: {fileID: 8300000, guid: 04dc98ff281c6b445a3ae4671ac6f3bc, type: 3}
+    textTimer: 5.5
+    dialogueText: Find your way to the elevator, that will take you down to the next
+      memory.
+  - characterName: Ethereal Voice
+    characterImage: {fileID: 21300000, guid: aea84dd81f247714dafc3647218fb8c9, type: 3}
+    audioClip: {fileID: 8300000, guid: 22506c37afca8ef44b32540001281846, type: 3}
+    textTimer: 4
+    dialogueText: "Follow the candles\u2026 They will light your way."
+  isActive: 0

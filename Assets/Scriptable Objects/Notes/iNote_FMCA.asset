@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6ac29c466050924aa915b45f98b6e5d, type: 3}
+  m_Name: iNote_FMCA
+  m_EditorClassIdentifier: 
+  noteName: Fleeting Moments Cast Asunder
+  menuName: Fleeting Moments
+  inInventory: 0
+  noteDisplay: {fileID: 21300000, guid: 611350f756d95d24eae8c2a1f3377eaa, type: 3}
+  multiPage: 1
+  frontPageText: "An adventure that has been dementing my memories is of our adventure
+    on Luneren, the Dust Planet. \r\n\r\nWhen we left the Library, the dust coated
+    our eyes. Blinded by the winds, Enora used her magic to guide us back into the
+    Grand Library. \r\n\u201CPeople are like dust.\u201D She told me. \u201CFleeting
+    moments cast to the wind. They blend and mix into each other until you forget
+    which is which.\u201D\r\n\u201CBut they can be stored, contained in a jar.\u201D
+    I responded.\r\nEnora shook her head. \u201CThe jar would be contaminated. No
+    single dust particle can be contained, they will mix and mesh with other particles
+    until events and memories become one muddled mass.\u201D\r\nI sighed, shaking
+    the dust out of my glasses. Enora continued. \u201CThere\u2019s no point in trying
+    to contain one piece to be as accurate as possible. The wind will blow. The dust
+    will settle.\u201D\r\n\u201CI don\u2019t follow.\u201D \r\n\u201CPeople, memories
+    are fleeting moments cast asunder, my love. Our fates are all the same, we might
+    as well embrace oblivion.\u201D\r\n\u201CHoney\u2026 why are you telling me this?\u201D\r\n"
+  backPageText: "She laughed. \u201CSand and dust just make me contemplate existence.
+    I mean, there is so much of it that it feels infinite. Stars make me feel the
+    same way. Its why I love the moonlight so.\u201D\r\n\nI still don\u2019t quite
+    know what she meant, but she looked so comfortable with it. Looking back at this
+    moment, it\u2019s almost like she knew what would come to pass. How could she
+    face oblivion and embrace it with open arms? Fleeting moments\u2026 cast asunder\u2026I
+    don\u2019t think I can embrace oblivion with the same self-assuredness as her,
+    but this memory keeps coming back to me. TI was hoping that if I wrote it down,
+    I would begin to understand her musings, but its only made me more unsure. I
+    will come back to it at a later date.\n"

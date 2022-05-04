@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dc85b15e33242c49b6db91cd3bad8c1, type: 3}
+  m_Name: How To Flatten
+  m_EditorClassIdentifier: 
+  type: 1
+  dialogueInfo:
+  - characterName: 
+    characterImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    textTimer: 4
+    dialogueText: Press the "R" or "V" keys or the "RT" or "LT" buttons to flatten
+      yourself and squeeze through tight spaces.
+  isActive: 0

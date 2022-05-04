@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bfd070ff18d8b424b90b5b89e07770ea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - worldArea: {instanceID: 0}
+  - Player: {fileID: 5822452940455494160, guid: bfb1a2297b45f4542bee58b73d2cbb0b, type: 3}
+  - PlayerModel: {fileID: 6014676067014017694, guid: ca438099cfdea5c42844d139cef5fe67, type: 3}
+  - teleportSound: {fileID: 8300000, guid: 00c255e8c76359640b61bf38c93b280d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

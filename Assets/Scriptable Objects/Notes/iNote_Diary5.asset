@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6ac29c466050924aa915b45f98b6e5d, type: 3}
+  m_Name: iNote_Diary5
+  m_EditorClassIdentifier: 
+  noteName: Paige Diary Entry #5
+  menuName: Diary 5
+  inInventory: 0
+  noteDisplay: {fileID: 21300000, guid: 611350f756d95d24eae8c2a1f3377eaa, type: 3}
+  multiPage: 1
+  frontPageText: "A Celebration and An Obsession\r\n\r\nDear Diary,\r\n\r\nToday
+    is my 13th birthday. This is the second birthday that Dad has forgotten. I miss
+    Mom, too, but I have started to recover. Even though I\u2019m reminded of the
+    pain every day, it is dulling. Dad, on the other hand, has barely changed. After
+    his nights of wailing, he went silent. He barely talks, barely eats, barely does
+    anything other than work. Even now, he\u2019s writing another book about Mom.
+    \r\n\r\nWhen he\u2019s sleeping, I read his most recent books. They\u2019re not
+    good. They\u2019re so obsessed with recording what Mom did on her adventures
+    that they often lose the point of the story. His writings used to be amazing.
+    Even now, I\u2019ll go into the library, pick out a book I have never heard of,
+    and read it. He manages to be so good at every genre...except action. No wonder
+    Mom didn\u2019t like his action books.\r\n"
+  backPageText: "But Dad shouldn\u2019t be writing books now. He should be here,
+    with me. I\u2019ve been trying my hand at baking, and made a birthday cake. My
+    first cake! It\u2019s...admittedly rough to look at, but it tastes really good!
+    He should be here, trying it with me, rather than writing his next terrible book.
+    Over the two years since Mom passed, he has grown progressively obsessed with
+    his writings. He needs to snap out of this depression. I will make him snap out
+    of it. I don\u2019t want him to miss another birthday.\r\n\r\nWish me luck,\r\nPaige\r\n"

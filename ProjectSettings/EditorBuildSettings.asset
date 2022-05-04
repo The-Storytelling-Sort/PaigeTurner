@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Levels/MainMenu.unity
+    guid: 93ddaf72da8654642b2a3ede712703d7
+  - enabled: 1
+    path: Assets/Levels/Intro.unity
+    guid: c6593271b1d791048b2aedf065f8523c
+  - enabled: 1
+    path: Assets/Levels/TurnersOffice.unity
+    guid: 10822b2bc55d04848af5b7bfaf6b6b0f
+  - enabled: 1
+    path: Assets/Levels/Archives.unity
+    guid: 82d681ac5f9e86848bf3fd26500f9f1f
+  - enabled: 1
+    path: Assets/Levels/NorthWing.unity
+    guid: 4655d5dd45dfca448a07326658faf058
+  - enabled: 1
+    path: Assets/Levels/NWtoGAScene.unity
+    guid: 6049e7b96bc7cf34a8ea2b901479f4d7
+  - enabled: 1
+    path: Assets/Levels/EastWing.unity
+    guid: beee09884b3f28141892b0474c740c29
+  - enabled: 1
+    path: Assets/Levels/WestWing.unity
+    guid: 544908906a6b08348b563d0e498feb2e
+  - enabled: 1
+    path: Assets/Levels/Destroyed_archives.unity
+    guid: a6b3265244dfd9d4aa54c54825cc89a1
+  - enabled: 1
+    path: Assets/Levels/Credits.unity
+    guid: 495ab4b7e9e273644b62d7674cdd731c
+  m_configObjects: {}
